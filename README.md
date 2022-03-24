@@ -1,6 +1,8 @@
 # CIS5367-Machine-Learning-Project
 
  Group Members: Sanjay Krishna Moorthy , Viswashanthi Bonala , Mitchell Moreno , Sneha Dudyala , Susmitha Haripriya Varanasi
+ 
+In this project we have created a business scenario where we are running a recipe subscription service. That is, we are delivering ingriedients to our customers every week in exchange for a subscription fee. The problem we would like to solve is figuring out how to recommend new recipiesthat our customers would like so that our customers extend their subscriptions, if they enjoy the recipies they are more likely to renew their subscription.
 
 For this project we will be using two CSV files that contain data from Kaggle, the data can be accessed at this link (https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews). The first data file is the recipes dataset that contains information about the available recipes, and the second data file is the  reviews data set which contains data about user reviews for the recipes from the recipes dataset. All of our visualizations and explorations of this data are done by first joining the reviews and recipes data set and analyzing the resulting joined data.
 
