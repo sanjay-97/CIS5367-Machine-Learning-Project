@@ -16,5 +16,5 @@ We then have a pie chart which displays the distributuions of the ratings. Follo
 
 The most common ingrients are also found, and we display the top 15 most common ingrdients. Finaly we have a plot of ratings from a single customer, this is used to show how difficult it would be to properly select a recommendation for a customer manually, especially if they have rated thousands of recipes.
 
-In project presentation II we will be implementing a recommendation engine that uses implicit/explicit variables provided by our users.
+In project presentation II we will be implementing a recommendation engines that uses implicit/explicit variables provided by our users.
 
