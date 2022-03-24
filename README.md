@@ -3,6 +3,7 @@
  Group Members: Sanjay Krishna Moorthy , Viswashanthi Bonala , Mitchell Moreno , Sneha Dudyala , Susmitha Haripriya Varanasi
  
  Reviews Data: https://drive.google.com/file/d/1F0-ASQ7DJagtpugLqvQhDPggbQkwwjRm/view?usp=sharing
+ 
  Recipe Data: https://drive.google.com/file/d/1-1VAw_qINDSeV_PBD-ylF0DnkDwL_wGt/view?usp=sharing
 
 In this project we have created a business scenario where we are running a recipe subscription service. That is, we are delivering ingriedients to our customers every week in exchange for a subscription fee. The problem we would like to solve is figuring out how to recommend new recipies that our customers would like so that our customers extend their subscriptions, if they enjoy the recipies they are more likely to renew their subscription.
